@@ -18,6 +18,8 @@ SocialTennis es una plataforma de red social dedicada exclusivamente a los amant
     <img src="https://github.com/elvis-codev/SocialTennis/blob/main/Screenshots/Screenshot_9%20-%20Crear%20Post%20.png" width="200" />
 </div>
 
+## Screenshot API Clima
+![alt text](https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot%2010%20-%20Clima.png?raw=true)
 
 ## Diagrama de Base de Datos
 ![alt text](https://github.com/elvis-codev/SocialTennis/blob/main/Diagrama%20Base%20de%20Datos/BasedeDatos_SocialTennis.png?raw=true)
