@@ -46,7 +46,10 @@ https://www.weatherapi.com/
 
 
 ## 🌧️ Screenshot API Clima 🌧️
-![alt text](https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot%2010%20-%20Clima.png?raw=true)
+<div>
+<img src="https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot%2010%20-%20Clima.png?raw=true" alt="alt text" width="500"/>
+<img src="https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot_Codigo_API_json.png" alt="alt text" width="310"/>
+</div>
 
 ## Diagrama de Base de Datos
 ![alt text](https://github.com/elvis-codev/SocialTennis/blob/main/Diagrama%20Base%20de%20Datos/BasedeDatos_SocialTennis.png?raw=true)
