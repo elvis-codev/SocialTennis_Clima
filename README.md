@@ -12,13 +12,40 @@ SocialTennis es una plataforma de red social dedicada exclusivamente a los amant
 
 ## Screenshots de las Vistas
 <div>
-    <img src="https://github.com/elvis-codev/SocialTennis/blob/main/Screenshots/Screenshot%201%20-%20Pagina%20Inicio.png" width="200" />
+    <img src="https://github.com/elvis-codev/SocialTennis/blob/main/Screenshots/Screenshot%201%20-%20Pagina%20Inicio.png" width="240" />
     <img src="https://github.com/elvis-codev/SocialTennis/blob/main/Screenshots/Screenshot%202%20-%20Inicio%20Sesi%C3%B3n.png" width="200" />
     <img src="https://github.com/elvis-codev/SocialTennis/blob/main/Screenshots/Screenshot%205%20-%20Partidos.png" width="200" />
     <img src="https://github.com/elvis-codev/SocialTennis/blob/main/Screenshots/Screenshot_9%20-%20Crear%20Post%20.png" width="200" />
 </div>
 
-## Screenshot API Clima
+## 🌤️ Información de API para el Clima 🌤️
+
+WeatherAPI.com es un servicio que proporciona datos meteorológicos y pronósticos a través de una API (Interfaz de Programación de Aplicaciones). Esta API ofrece información detallada sobre el clima actual, pronósticos a corto y largo plazo, así como datos históricos.
+
+## Características clave
+
+Algunas características clave de WeatherAPI.com incluyen:
+
+### 1. Datos precisos
+Utiliza una combinación de fuentes de datos para proporcionar información meteorológica precisa y confiable.
+
+### 2. API fácil de usar
+Ofrece una API bien documentada y fácil de integrar en aplicaciones y sitios web.
+
+### 3. Compatibilidad
+La API es compatible con varios lenguajes de programación y plataformas, lo que la hace accesible para una amplia gama de desarrolladores.
+
+
+<div>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJx089v3cq_xyJc0U0vPeDXkQ6vzO0TXAtqUQWf5oIqA&s?raw=true" alt="alt text" width="190"/>
+<img src="https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot_Codigo_API_view.png" alt="alt text" width="300"/>
+<img src="https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot_Codigo_API_home.png?raw=true" alt="alt text" width="440"/>
+</div>
+
+https://www.weatherapi.com/
+
+
+## 🌧️ Screenshot API Clima 🌧️
 ![alt text](https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot%2010%20-%20Clima.png?raw=true)
 
 ## Diagrama de Base de Datos
