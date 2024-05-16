@@ -39,7 +39,7 @@ La API es compatible con varios lenguajes de programación y plataformas, lo que
 <div>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJx089v3cq_xyJc0U0vPeDXkQ6vzO0TXAtqUQWf5oIqA&s?raw=true" alt="alt text" width="190"/>
 <img src="https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot_Codigo_API_view.png" alt="alt text" width="300"/>
-<img src="https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot_Codigo_API_home.png?raw=true" alt="alt text" width="440"/>
+<img src="https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot_Codigo_API_home.png?raw=true" alt="alt text" width="300"/>
 </div>
 
 https://www.weatherapi.com/
@@ -47,8 +47,8 @@ https://www.weatherapi.com/
 
 ## 🌧️ Screenshot API Clima 🌧️
 <div>
-<img src="https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot%2010%20-%20Clima.png?raw=true" alt="alt text" width="500"/>
-<img src="https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot_Codigo_API_json.png" alt="alt text" width="310"/>
+<img src="https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot%2010%20-%20Clima.png?raw=true" alt="alt text" width="400"/>
+<img src="https://github.com/elvis-codev/SocialTennis_Clima/blob/main/Screenshots/Screenshot_Codigo_API_json.png" alt="alt text" width="300"/>
 </div>
 
 ## Diagrama de Base de Datos
