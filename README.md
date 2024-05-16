@@ -12,7 +12,7 @@ SocialTennis es una plataforma de red social dedicada exclusivamente a los amant
 
 ## Screenshots de las Vistas
 <div>
-    <img src="https://github.com/elvis-codev/SocialTennis/blob/main/Screenshots/Screenshot%201%20-%20Pagina%20Inicio.png" width="240" />
+    <img src="https://github.com/elvis-codev/SocialTennis/blob/main/Screenshots/Screenshot%201%20-%20Pagina%20Inicio.png" width="200" />
     <img src="https://github.com/elvis-codev/SocialTennis/blob/main/Screenshots/Screenshot%202%20-%20Inicio%20Sesi%C3%B3n.png" width="200" />
     <img src="https://github.com/elvis-codev/SocialTennis/blob/main/Screenshots/Screenshot%205%20-%20Partidos.png" width="200" />
     <img src="https://github.com/elvis-codev/SocialTennis/blob/main/Screenshots/Screenshot_9%20-%20Crear%20Post%20.png" width="200" />
